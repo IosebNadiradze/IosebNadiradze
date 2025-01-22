@@ -6,7 +6,7 @@
 After several years of experience in the finance audit sector, working on large-scale projects and honing analytical skills, I’ve discovered my true passion: programming. I’m now focused on building my skills in web development and contributing to the tech world.
 
 💻 What I Do:
-Front-End Development: Angular, HTML, CSS, JavaScript
+Front-End Development: Angular, HTML, CSS, JavaScript,
 Back-End Basics: PHP, SQL, Python
 Version Control: Git
 Problem-Solving & Continuous Learning
