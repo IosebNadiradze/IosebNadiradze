@@ -12,12 +12,12 @@ Version Control: Git
 Problem-Solving & Continuous Learning
 
 🚀 Projects:
-User Tasks Project (Angular): User-Tasks, Investment Calculator
+User Tasks Project (Angular): User-Tasks, Investment Calculator,
 MyArchitect.ge: A professional architecture company website built with HTML, CSS, and JavaScript
 
 🎯 Currently Learning:
-Advanced Angular Concepts
-Modern Web Development Practices
+Advanced Angular Concepts,
+Modern Web Development Practices,
 Python
 
 📫 Let’s Connect
